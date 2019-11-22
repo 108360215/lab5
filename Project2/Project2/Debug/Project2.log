@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\desktop\lab1122\project2\source\main.c(46): warning C4047: '<': 'void (__cdecl *)(void)' 與 'int' 間接取值的層級不同
+  Project2.vcxproj -> C:\Users\USER\Desktop\lab1122\Project2\Project2\..\temp\debug\Project2.exe
